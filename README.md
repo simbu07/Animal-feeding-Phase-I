@@ -3,7 +3,8 @@
 
 To develop a animal feeding game-Phase-1 using unity.
 ### Algorithm:
-Player Controller
+
+### Player Controller
 ### Step 1:
 
 Extract the package and in unity , asserts -> Import packages -> Custom packages and select the package.
@@ -22,6 +23,8 @@ Adjust the XYZ scale of the food (2,2,2) so you can easily see it from above
 ### Step 6:
 
 In your Assets folder, create a “Scripts” folder, and a “PlayerController” script inside.Attach the script to the Player by dragging the c# file to the player.
+
+
 ### Flood Flight
 ### Step 1:
 
@@ -41,6 +44,8 @@ Select all three animals in the hierarchy and Add Component > Drag the Move Forw
 ### Step 6:
 
 Edit their speed values and test to see how it looks. Drag all three animals into the Prefabs folder, choosing “Original Prefab”
+
+
 ### Program:
 ### Player Controller:
 ```c#
